@@ -1,0 +1,3 @@
+test.make:25: target 'String.o' doesn't match the target pattern
+ld: cannot find -lOctober.a
+mingw32-make: *** [test.exe] Error 1
